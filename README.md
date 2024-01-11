@@ -10,7 +10,7 @@ $ pip install practice_package_wenyu
 
 ## Usage
 
-- TODO
+`practice_package_wenyu` contains toy functions for counting words in a text file and plotting the frequencies
 
 ## Contributing
 
