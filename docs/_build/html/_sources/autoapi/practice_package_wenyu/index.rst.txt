@@ -1,0 +1,23 @@
+:py:mod:`practice_package_wenyu`
+================================
+
+.. py:module:: practice_package_wenyu
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   plotting/index.rst
+   pycounts/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
+   
+
